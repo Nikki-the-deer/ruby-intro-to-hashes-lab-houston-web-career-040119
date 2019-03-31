@@ -1,8 +1,9 @@
 def new_hash
-
+da_hash = {}
 end
 
-def actor
+def actor(name)
+this_hash = {name: "Dwayne The Rock Johnson"}
 
 end
 

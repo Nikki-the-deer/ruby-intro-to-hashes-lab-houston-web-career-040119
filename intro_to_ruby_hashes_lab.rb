@@ -4,7 +4,7 @@ end
 
 def actor(name)
 this_hash = {name: "Dwayne The Rock Johnson"}
-
+puts "this_hash #{name}"
 end
 
 def monopoly
